@@ -6,6 +6,11 @@ Like [Bonusly](https://bonus.ly/), it will be peer to peer Reward System using c
 
 
 ### 2. Pocket Tank game using https://github.com/jellymann/mittsu
+#### Game Development
+- Opal looks promising, go through following links
+- https://github.com/fazibear/awesome-opal
+- https://github.com/opal/opal
+- https://opalrb.com/
 
 ### 3. Revamp Bidder (https://github.com/anilmaurya/bidder) using actioncable
 
